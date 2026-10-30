@@ -50,7 +50,8 @@
 先拿到仓库：
 
 ```bash
-git clone https://github.com/<your-name>/mybib4tpami.git
+git clone https://github.com/duxin0618/bib4tpami.git
+mv bib4tpami mybib4tpami
 cd mybib4tpami
 ```
 
